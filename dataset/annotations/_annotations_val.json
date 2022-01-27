@@ -1,0 +1,2059 @@
+{
+    "info": {
+        "year": "2022",
+        "version": "4",
+        "description": "Exported from roboflow.ai",
+        "contributor": "",
+        "url": "https://public.roboflow.ai/object-detection/undefined",
+        "date_created": "2022-01-11T22:46:39+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "https://creativecommons.org/licenses/by/4.0/",
+            "name": "CC BY 4.0"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "animais-pantanal",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "anta",
+            "supercategory": "animais-pantanal"
+        },
+        {
+            "id": 2,
+            "name": "arara",
+            "supercategory": "animais-pantanal"
+        },
+        {
+            "id": 3,
+            "name": "bugio",
+            "supercategory": "animais-pantanal"
+        },
+        {
+            "id": 4,
+            "name": "capivara",
+            "supercategory": "animais-pantanal"
+        },
+        {
+            "id": 5,
+            "name": "jacare",
+            "supercategory": "animais-pantanal"
+        },
+        {
+            "id": 6,
+            "name": "quati",
+            "supercategory": "animais-pantanal"
+        },
+        {
+            "id": 7,
+            "name": "tamandua",
+            "supercategory": "animais-pantanal"
+        },
+        {
+            "id": 8,
+            "name": "tucano",
+            "supercategory": "animais-pantanal"
+        },
+        {
+            "id": 9,
+            "name": "tuiuiu",
+            "supercategory": "animais-pantanal"
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "license": 1,
+            "file_name": "arara-de-barriga-amarela-10.rf.26a90119df5243ef70d1a2153756b126.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 1,
+            "license": 1,
+            "file_name": "ac9f470f73bc027dfa5d477e3072edd0.rf.0ecf9de9a355aee16dde9dce6273342e.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 2,
+            "license": 1,
+            "file_name": "unnamed--4-.rf.3697e91b170397731d6b1f289e691761.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 3,
+            "license": 1,
+            "file_name": "capybara-hydrochoerus-hydrochaeris-19924345.rf.068aea55715a16ce02251a0f634ed1dd.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 4,
+            "license": 1,
+            "file_name": "istockphoto-187040902-170667a.rf.118057fb642d5eb856d1ceb5dc787b12.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 5,
+            "license": 1,
+            "file_name": "9157239.rf.2b01ecbb4f86f811e5ea0b350a33815f.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 6,
+            "license": 1,
+            "file_name": "depositphotos_77842868-stock-photo-south-american-tapir.rf.2ccdfa6e8b5661f92f09a1821f22855d.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 7,
+            "license": 1,
+            "file_name": "01529852.rf.1b63aadbf5656dce4a8e4527dd1651ea.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 8,
+            "license": 1,
+            "file_name": "unnamed--7-.rf.1ef3ce6a42f66cce1a6abbed05404c71.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 9,
+            "license": 1,
+            "file_name": "a-capivara-hydrochoerus-hydrochaeris-o-maior-roedor-vivo-do-mundo_45756-348.rf.3517a3bf55cbcc8e4f11e9d52af02c5a.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 10,
+            "license": 1,
+            "file_name": "ms32-e1477395215690.rf.14d9c46b8db0186cefd2c270a1e7d9f1.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 11,
+            "license": 1,
+            "file_name": "animalsemana-guariba.rf.3f89bf8b81fc31ad9001302fc3a04f81.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 12,
+            "license": 1,
+            "file_name": "tamandua-bandeira_81890218.rf.30ba7c527e868155fa43ecc9f2624d0d.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 13,
+            "license": 1,
+            "file_name": "unnamed--2-.rf.25045839b42cbe95c50b16449805fb0c.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 14,
+            "license": 1,
+            "file_name": "unnamed--1-.rf.1c5a3aa4ef4c483b6ffcd20a186243ed.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 15,
+            "license": 1,
+            "file_name": "8149293_x720.rf.2f4708f85315637d15de6a98b3aa154b.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 16,
+            "license": 1,
+            "file_name": "a587c835937c15cc258dc4a96b49d35b.rf.0ecdc9480bc19fddf39abb6d660c80f5.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 17,
+            "license": 1,
+            "file_name": "162079-050-5808bea2.rf.3cff37180bcdf835a01de306a627bb4b.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 18,
+            "license": 1,
+            "file_name": "tamandua-bandeira-myrmecophaga-tridactyla.rf.3588697b39b03114300d99efff44a923.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 19,
+            "license": 1,
+            "file_name": "capybara---89x_kapybara_dsc_5028.rf.3e21520bb72d6c48b88b64999a36dbf7.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 20,
+            "license": 1,
+            "file_name": "b2ap3_large_oqueejacareacu.rf.18c45f237103c323e8200b8f8c8d6838.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 21,
+            "license": 1,
+            "file_name": "coati.rf.37204586aae17e6caf665513ced62462.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 22,
+            "license": 1,
+            "file_name": "24d8c27592219a986cebc2f2c6d4aa6f653f9e37-768x432.rf.2823f1a83c634bae51798440b1a0d34c.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 23,
+            "license": 1,
+            "file_name": "depositphotos_4480458-stock-photo-alligator.rf.3dea147dda9a16f24fc0e06f50b28702.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 24,
+            "license": 1,
+            "file_name": "tucano--1-.rf.476a6ca0b5f6533bbfa8168b26893c56.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 25,
+            "license": 1,
+            "file_name": "0d1281598b21264187b2025086b0552c.rf.2d7f22547744bf1aeffa7f24b7c9895e.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 26,
+            "license": 1,
+            "file_name": "c4a58a86f92967f58004a6a7c6f4bf02.rf.4573479852eb9d0a823c09e1d16fc56f.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 27,
+            "license": 1,
+            "file_name": "tamandua_bandeira.rf.407dae418a74e816419b0b07d1a4ef96.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 28,
+            "license": 1,
+            "file_name": "jabiru-mycteria.rf.42bd1e09b20592cd6cfbac08fd404617.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 29,
+            "license": 1,
+            "file_name": "12233539421000.rf.490854cf66f7d72c8f81c05eb1643d17.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 30,
+            "license": 1,
+            "file_name": "a-arara-azul-uma-ave-familia-dos-psitacideos-5c8a3e0c53ef2.rf.600617e1a094d5fddee9454df017ad34.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 31,
+            "license": 1,
+            "file_name": "depositphotos_166360124-stock-photo-tapirus-in-bolivia-south-america.rf.5b6d6da2433e9dd7ccf3105496e18cb8.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 32,
+            "license": 1,
+            "file_name": "tucano-2-1024x683.rf.60a5481205c658a0e18dc786cbe326e6.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 33,
+            "license": 1,
+            "file_name": "alligator-g28806c120_1920-1049x700.rf.55a7cfde1ebcc8417fc1ac85c8b589ee.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 34,
+            "license": 1,
+            "file_name": "original--1-.rf.4332559e1d3f485664f07993a8c57c90.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 35,
+            "license": 1,
+            "file_name": "quati-nasua-nasua.rf.53d89d62f400eca7d03c96ef643bd190.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 36,
+            "license": 1,
+            "file_name": "tucunao-toco-toucan.rf.64f0de91153663542cb6601715aa0fff.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 37,
+            "license": 1,
+            "file_name": "capivara--2-.rf.74ea3801743e6c94408fd4fb6af9bb4a.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 38,
+            "license": 1,
+            "file_name": "tucano_toco.rf.5e412b057aebf00543856dc325da5760.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 39,
+            "license": 1,
+            "file_name": "quati.rf.6581597812f9a24e00344630d6392f23.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 40,
+            "license": 1,
+            "file_name": "bugio-650139160-768x511.rf.7dc6c35517efd0d09bcc6bdf219ff323.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 41,
+            "license": 1,
+            "file_name": "caraya-3.rf.69a59c171c0bcc17083657f77baf0120.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 42,
+            "license": 1,
+            "file_name": "depositphotos_100885572-stock-photo-blue-and-yellow-macaw-ara--1-.rf.62e124d0c2dabe08305a854bf88012f9.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 43,
+            "license": 1,
+            "file_name": "b1248916fed58353e3ef7adefad25239.rf.88eef838b8f8bd0c4fbdf00cf939d520.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 44,
+            "license": 1,
+            "file_name": "9670969.rf.7eb921b9e7a03eaf1abea92983c0fc36.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 45,
+            "license": 1,
+            "file_name": "quati-curiosidades.rf.8b584fbdc9032a79fc294a3b1368a33e.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 46,
+            "license": 1,
+            "file_name": "fotodia-jacare-papo-amarelo.rf.99f5cce7dc324f51753ff3399dc6ebf8.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 47,
+            "license": 1,
+            "file_name": "4500013321_afcb2997a9_b.rf.ad4acfc588a8dbb174ce40c85d48aad8.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 48,
+            "license": 1,
+            "file_name": "tucano-1024x683.rf.b54613e5741dfa937cdbe018ed36173c.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 49,
+            "license": 1,
+            "file_name": "capybara-hydrochoerus-hydrochaeris-descansando-na-costa-da-lagoa_224798-1467.rf.a1e60c37d598990c79f6fbbef7152cf4.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 50,
+            "license": 1,
+            "file_name": "00446671.rf.af8a073ad6bfac6bb5fc468ed68dd43b.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 51,
+            "license": 1,
+            "file_name": "capybara_11.rf.82f6a6e0ff7f179e754b27625cc35031.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 52,
+            "license": 1,
+            "file_name": "unnamed--6-.rf.926bd22ef570aa930b795932094799e7.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 53,
+            "license": 1,
+            "file_name": "3438152g_640b1a0737a23a0a1b6d549fb16aa9d5.rf.abff45f7c61787e8ca6bc2f7c67b5c38.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 54,
+            "license": 1,
+            "file_name": "bugio-preto-1.rf.c77cdd732bd428abed29f8b7f88c7348.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 55,
+            "license": 1,
+            "file_name": "quati-1.rf.cf2461fd5ffb6ad778577178743f0342.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 56,
+            "license": 1,
+            "file_name": "tamandua-bandeira-1-.rf.7ed31ce63dbb77601ea5f70aad979946.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 57,
+            "license": 1,
+            "file_name": "arara_azul.rf.bbda0c0d26141897649a13c937820f8a.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 58,
+            "license": 1,
+            "file_name": "arara-azul-e-amarela-no-estudio_87557-1271.rf.cd09043e99958c34af28fbf99a4d356c.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 59,
+            "license": 1,
+            "file_name": "17d7c4e177a81ca8658e4df616147975--1-.rf.ce787b21f00222153eda4ef15dbc2af3.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 60,
+            "license": 1,
+            "file_name": "unnamed--10-.rf.c79177195351c7fd2cbc13e6ba99b13b.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 61,
+            "license": 1,
+            "file_name": "arara-azul-3.rf.9c657c866e65e2e10cf71e1f797f1ffc.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 62,
+            "license": 1,
+            "file_name": "istockphoto-638457914-612x612.rf.981452f66be4e6a337a0a16eef7fcf74.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 63,
+            "license": 1,
+            "file_name": "1ei9thdarasl9.rf.a573ce3531c37b9666ee048b8f971fc5.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 64,
+            "license": 1,
+            "file_name": "fauna_quati.rf.c493e545ca031e54d90e3549691cfefc.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 65,
+            "license": 1,
+            "file_name": "unnamed--11-.rf.d33908492e34532d8c6e4a03bb28a5bb.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 66,
+            "license": 1,
+            "file_name": "arara-amarela-azul_64238-137.rf.d3db3fb2d26bba7b559fc76571337699.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 67,
+            "license": 1,
+            "file_name": "3686254_524aeb34fa6cd229913527bb9c30df0e.rf.bdff5fbecf2a3534a8f0540f62660799.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 68,
+            "license": 1,
+            "file_name": "download--2-.rf.d5db10ccf477f89fac7d3f7c05f2b1a7.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 69,
+            "license": 1,
+            "file_name": "tucano-ramphastos_toco.rf.d9357abac89b0ef1d43a7ee34bdc7328.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 70,
+            "license": 1,
+            "file_name": "jacare-780x470.rf.e65065658caf97f246ba358c1299b08a.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 71,
+            "license": 1,
+            "file_name": "518aaecdd4c71ff7822f2cb3599b43bc.rf.d460a135770a9919218bccf8d84a6f1a.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 72,
+            "license": 1,
+            "file_name": "jabiru-mycteria-605a2d67c4d00.rf.dba70a5e0129ecc611761f66f014a11c.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 73,
+            "license": 1,
+            "file_name": "maxresdefault.rf.dccd9b2521fde8c8ed0cee5efa68b759.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 74,
+            "license": 1,
+            "file_name": "4243479g_6da7771393d6431d0e9143ced85888b5.rf.dd8ee8b7f2d71cb39cf83ef0fbec6639.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 75,
+            "license": 1,
+            "file_name": "depositphotos_7558316-stock-photo-wild-animal-male-tapir-tapirus.rf.f40d4daf01276da98885d8a95a266d0f.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 76,
+            "license": 1,
+            "file_name": "muja_jacare_widelg.rf.eecfdaaff3a01e6ce132316aacbb810e.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 77,
+            "license": 1,
+            "file_name": "unnamed.rf.ed1bb41cd169707be7081a6118c24986.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 78,
+            "license": 1,
+            "file_name": "tamanda-bandeira.rf.da9bf547eba5d88d1d73378b827752ed.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 79,
+            "license": 1,
+            "file_name": "208189.rf.e4700cde90bffe645a67696ff7e000af.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 80,
+            "license": 1,
+            "file_name": "stanford_to.rf.fecf75a8f0312c92167f93e95ff268bd.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 81,
+            "license": 1,
+            "file_name": "detalhe-da-asa-da-arara_azul.rf.f51af1bea00cb6f3d534d02452342d6c.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 82,
+            "license": 1,
+            "file_name": "istockphoto-872217492-612x612.rf.f19c678326f5c27f4cdf6402f0794677.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 83,
+            "license": 1,
+            "file_name": "image.rf.f56e0cce1452e8eaaeb0f5b86acdd778.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 84,
+            "license": 1,
+            "file_name": "jacare-lagoa-grande-goias-e1624547309178.rf.f287ee19c156238b54474d55025381b1.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 85,
+            "license": 1,
+            "file_name": "jacare-2645898_1280-1024x682.rf.fb1c5214bfeedd21424743e7441bd1ea.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 86,
+            "license": 1,
+            "file_name": "cb208be7dd3f15c6831d98c1a36b441c.rf.fd8528970609925f31d0052ed8e5bb81.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 87,
+            "license": 1,
+            "file_name": "66185f8b-jacare-1.rf.00213eef801a0e318ee32ba7ada16b71.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        },
+        {
+            "id": 88,
+            "license": 1,
+            "file_name": "30134718812239.rf.03b02d9398668cf620b9f244b0a45241.jpg",
+            "height": 320,
+            "width": 320,
+            "date_captured": "2022-01-11T22:46:39+00:00"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 2,
+            "bbox": [
+                15,
+                55,
+                274,
+                230.5
+            ],
+            "area": 63157,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 9,
+            "bbox": [
+                31,
+                31,
+                265.5,
+                239
+            ],
+            "area": 63454.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 2,
+            "category_id": 9,
+            "bbox": [
+                118,
+                81,
+                152,
+                166.5
+            ],
+            "area": 25308,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 3,
+            "category_id": 4,
+            "bbox": [
+                17,
+                58,
+                249,
+                149
+            ],
+            "area": 37101,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 4,
+            "category_id": 4,
+            "bbox": [
+                110,
+                81,
+                209.5,
+                143
+            ],
+            "area": 29958.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 5,
+            "category_id": 3,
+            "bbox": [
+                0,
+                2,
+                162,
+                316.5
+            ],
+            "area": 51273,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 6,
+            "image_id": 6,
+            "category_id": 1,
+            "bbox": [
+                50,
+                32,
+                212,
+                256
+            ],
+            "area": 54272,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 7,
+            "image_id": 7,
+            "category_id": 9,
+            "bbox": [
+                36,
+                30,
+                160.5,
+                257.5
+            ],
+            "area": 41328.75,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 8,
+            "image_id": 8,
+            "category_id": 9,
+            "bbox": [
+                84,
+                29,
+                173,
+                278.5
+            ],
+            "area": 48180.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 9,
+            "image_id": 9,
+            "category_id": 4,
+            "bbox": [
+                50,
+                42,
+                235,
+                265
+            ],
+            "area": 62275,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 10,
+            "image_id": 10,
+            "category_id": 7,
+            "bbox": [
+                24,
+                62,
+                280,
+                211.5
+            ],
+            "area": 59220,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 11,
+            "image_id": 11,
+            "category_id": 3,
+            "bbox": [
+                92,
+                14,
+                186,
+                287.5
+            ],
+            "area": 53475,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 12,
+            "image_id": 12,
+            "category_id": 7,
+            "bbox": [
+                33,
+                23,
+                272.5,
+                261
+            ],
+            "area": 71122.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 13,
+            "image_id": 13,
+            "category_id": 9,
+            "bbox": [
+                10,
+                53,
+                292.5,
+                234.5
+            ],
+            "area": 68591.25,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 14,
+            "image_id": 14,
+            "category_id": 9,
+            "bbox": [
+                62,
+                62,
+                142.5,
+                164
+            ],
+            "area": 23370,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 15,
+            "image_id": 15,
+            "category_id": 7,
+            "bbox": [
+                94,
+                120,
+                200.5,
+                109.5
+            ],
+            "area": 21954.75,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 16,
+            "image_id": 16,
+            "category_id": 9,
+            "bbox": [
+                111,
+                69,
+                140.5,
+                171
+            ],
+            "area": 24025.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 17,
+            "image_id": 17,
+            "category_id": 9,
+            "bbox": [
+                113,
+                78,
+                126,
+                191
+            ],
+            "area": 24066,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 18,
+            "image_id": 18,
+            "category_id": 7,
+            "bbox": [
+                0,
+                18,
+                299,
+                302
+            ],
+            "area": 90298,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 19,
+            "image_id": 19,
+            "category_id": 4,
+            "bbox": [
+                55,
+                72,
+                198,
+                229
+            ],
+            "area": 45342,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 20,
+            "image_id": 20,
+            "category_id": 5,
+            "bbox": [
+                27,
+                60,
+                292.5,
+                183.5
+            ],
+            "area": 53673.75,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 21,
+            "image_id": 21,
+            "category_id": 6,
+            "bbox": [
+                59,
+                76,
+                254,
+                185
+            ],
+            "area": 46990,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 22,
+            "image_id": 22,
+            "category_id": 5,
+            "bbox": [
+                41,
+                40,
+                278,
+                196.5
+            ],
+            "area": 54627,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 23,
+            "image_id": 23,
+            "category_id": 5,
+            "bbox": [
+                47,
+                35,
+                269.5,
+                224.5
+            ],
+            "area": 60502.75,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 24,
+            "image_id": 24,
+            "category_id": 8,
+            "bbox": [
+                13,
+                48,
+                306.5,
+                270.5
+            ],
+            "area": 82908.25,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 25,
+            "image_id": 25,
+            "category_id": 8,
+            "bbox": [
+                53,
+                19,
+                266.5,
+                299
+            ],
+            "area": 79683.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 26,
+            "image_id": 26,
+            "category_id": 7,
+            "bbox": [
+                88,
+                60,
+                140.5,
+                210.5
+            ],
+            "area": 29575.25,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 27,
+            "image_id": 27,
+            "category_id": 7,
+            "bbox": [
+                9,
+                43,
+                284,
+                236
+            ],
+            "area": 67024,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 28,
+            "image_id": 28,
+            "category_id": 9,
+            "bbox": [
+                66,
+                94,
+                205,
+                166.5
+            ],
+            "area": 34132.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 29,
+            "image_id": 29,
+            "category_id": 7,
+            "bbox": [
+                95,
+                74,
+                201,
+                155
+            ],
+            "area": 31155,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 30,
+            "image_id": 30,
+            "category_id": 2,
+            "bbox": [
+                42,
+                7,
+                182.5,
+                313
+            ],
+            "area": 57122.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 31,
+            "image_id": 31,
+            "category_id": 1,
+            "bbox": [
+                139,
+                74,
+                150.5,
+                193
+            ],
+            "area": 29046.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 32,
+            "image_id": 32,
+            "category_id": 8,
+            "bbox": [
+                89,
+                32,
+                166,
+                265.5
+            ],
+            "area": 44073,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 33,
+            "image_id": 33,
+            "category_id": 5,
+            "bbox": [
+                63,
+                2,
+                253,
+                260.5
+            ],
+            "area": 65906.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 34,
+            "image_id": 34,
+            "category_id": 9,
+            "bbox": [
+                50,
+                64,
+                180.5,
+                171.5
+            ],
+            "area": 30955.75,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 35,
+            "image_id": 35,
+            "category_id": 6,
+            "bbox": [
+                14,
+                19,
+                266.5,
+                300.5
+            ],
+            "area": 80083.25,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 36,
+            "image_id": 36,
+            "category_id": 8,
+            "bbox": [
+                39,
+                21,
+                214,
+                293
+            ],
+            "area": 62702,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 37,
+            "image_id": 37,
+            "category_id": 4,
+            "bbox": [
+                23,
+                38,
+                276.5,
+                262
+            ],
+            "area": 72443,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 38,
+            "image_id": 38,
+            "category_id": 8,
+            "bbox": [
+                46,
+                34,
+                210.5,
+                256
+            ],
+            "area": 53888,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 39,
+            "image_id": 39,
+            "category_id": 6,
+            "bbox": [
+                33,
+                76,
+                270,
+                166.5
+            ],
+            "area": 44955,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 40,
+            "image_id": 40,
+            "category_id": 3,
+            "bbox": [
+                24,
+                72,
+                252.5,
+                221
+            ],
+            "area": 55802.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 41,
+            "image_id": 41,
+            "category_id": 3,
+            "bbox": [
+                15,
+                2,
+                230,
+                318
+            ],
+            "area": 73140,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 42,
+            "image_id": 42,
+            "category_id": 2,
+            "bbox": [
+                52,
+                51,
+                158,
+                200
+            ],
+            "area": 31600,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 43,
+            "image_id": 43,
+            "category_id": 7,
+            "bbox": [
+                12,
+                27,
+                296.5,
+                265
+            ],
+            "area": 78572.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 44,
+            "image_id": 44,
+            "category_id": 3,
+            "bbox": [
+                7,
+                1,
+                222,
+                318
+            ],
+            "area": 70596,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 45,
+            "image_id": 45,
+            "category_id": 6,
+            "bbox": [
+                114,
+                78,
+                103,
+                234.5
+            ],
+            "area": 24153.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 46,
+            "image_id": 46,
+            "category_id": 5,
+            "bbox": [
+                86,
+                120,
+                234,
+                96.5
+            ],
+            "area": 22581,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 47,
+            "image_id": 47,
+            "category_id": 6,
+            "bbox": [
+                85,
+                72,
+                206,
+                247.5
+            ],
+            "area": 50985,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 48,
+            "image_id": 48,
+            "category_id": 8,
+            "bbox": [
+                54,
+                59,
+                229,
+                249.5
+            ],
+            "area": 57135.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 49,
+            "image_id": 49,
+            "category_id": 4,
+            "bbox": [
+                32,
+                89,
+                219.5,
+                180
+            ],
+            "area": 39510,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 50,
+            "image_id": 50,
+            "category_id": 4,
+            "bbox": [
+                1,
+                29,
+                303.5,
+                290.5
+            ],
+            "area": 88166.75,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 51,
+            "image_id": 51,
+            "category_id": 4,
+            "bbox": [
+                20,
+                78,
+                202.5,
+                170.5
+            ],
+            "area": 34526.25,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 52,
+            "image_id": 52,
+            "category_id": 9,
+            "bbox": [
+                142,
+                108,
+                53,
+                173
+            ],
+            "area": 9169,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 53,
+            "image_id": 52,
+            "category_id": 9,
+            "bbox": [
+                221,
+                103,
+                19.5,
+                89
+            ],
+            "area": 1735.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 54,
+            "image_id": 52,
+            "category_id": 9,
+            "bbox": [
+                90,
+                99,
+                40,
+                70
+            ],
+            "area": 2800,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 55,
+            "image_id": 53,
+            "category_id": 2,
+            "bbox": [
+                32,
+                26,
+                205,
+                263.5
+            ],
+            "area": 54017.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 56,
+            "image_id": 54,
+            "category_id": 3,
+            "bbox": [
+                30,
+                45,
+                290,
+                245
+            ],
+            "area": 71050,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 57,
+            "image_id": 55,
+            "category_id": 6,
+            "bbox": [
+                59,
+                65,
+                250.5,
+                233.5
+            ],
+            "area": 58491.75,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 58,
+            "image_id": 56,
+            "category_id": 7,
+            "bbox": [
+                38,
+                42,
+                192,
+                202
+            ],
+            "area": 38784,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 59,
+            "image_id": 57,
+            "category_id": 2,
+            "bbox": [
+                150,
+                16,
+                170,
+                303
+            ],
+            "area": 51510,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 60,
+            "image_id": 58,
+            "category_id": 2,
+            "bbox": [
+                13,
+                37,
+                297.5,
+                254.5
+            ],
+            "area": 75713.75,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 61,
+            "image_id": 59,
+            "category_id": 8,
+            "bbox": [
+                1,
+                60,
+                289.5,
+                251
+            ],
+            "area": 72664.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 62,
+            "image_id": 60,
+            "category_id": 6,
+            "bbox": [
+                24,
+                85,
+                284.5,
+                204.5
+            ],
+            "area": 58180.25,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 63,
+            "image_id": 61,
+            "category_id": 2,
+            "bbox": [
+                61,
+                34,
+                180.5,
+                286
+            ],
+            "area": 51623,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 64,
+            "image_id": 62,
+            "category_id": 3,
+            "bbox": [
+                91,
+                103,
+                218,
+                181
+            ],
+            "area": 39458,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 65,
+            "image_id": 63,
+            "category_id": 6,
+            "bbox": [
+                63,
+                52,
+                257,
+                171.5
+            ],
+            "area": 44075.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 66,
+            "image_id": 64,
+            "category_id": 6,
+            "bbox": [
+                97,
+                27,
+                105,
+                261
+            ],
+            "area": 27405,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 67,
+            "image_id": 65,
+            "category_id": 8,
+            "bbox": [
+                0,
+                129,
+                260.5,
+                190
+            ],
+            "area": 49495,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 68,
+            "image_id": 66,
+            "category_id": 2,
+            "bbox": [
+                23,
+                26,
+                242,
+                266.5
+            ],
+            "area": 64493,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 69,
+            "image_id": 67,
+            "category_id": 2,
+            "bbox": [
+                13,
+                30,
+                259.5,
+                258
+            ],
+            "area": 66951,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 70,
+            "image_id": 68,
+            "category_id": 8,
+            "bbox": [
+                143,
+                4,
+                111.5,
+                313
+            ],
+            "area": 34899.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 71,
+            "image_id": 69,
+            "category_id": 8,
+            "bbox": [
+                28,
+                66,
+                209,
+                209.5
+            ],
+            "area": 43785.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 72,
+            "image_id": 70,
+            "category_id": 5,
+            "bbox": [
+                26,
+                63,
+                293.5,
+                220
+            ],
+            "area": 64570,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 73,
+            "image_id": 71,
+            "category_id": 5,
+            "bbox": [
+                56,
+                50,
+                224.5,
+                269.5
+            ],
+            "area": 60502.75,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 74,
+            "image_id": 72,
+            "category_id": 9,
+            "bbox": [
+                77,
+                78,
+                149.5,
+                190
+            ],
+            "area": 28405,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 75,
+            "image_id": 73,
+            "category_id": 8,
+            "bbox": [
+                122,
+                64,
+                63.5,
+                252.5
+            ],
+            "area": 16033.75,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 76,
+            "image_id": 74,
+            "category_id": 9,
+            "bbox": [
+                133,
+                91,
+                52.5,
+                160.5
+            ],
+            "area": 8426.25,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 77,
+            "image_id": 75,
+            "category_id": 1,
+            "bbox": [
+                8,
+                29,
+                303,
+                231.5
+            ],
+            "area": 70144.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 78,
+            "image_id": 76,
+            "category_id": 5,
+            "bbox": [
+                16,
+                5,
+                274.5,
+                310
+            ],
+            "area": 85095,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 79,
+            "image_id": 77,
+            "category_id": 4,
+            "bbox": [
+                98,
+                38,
+                202,
+                184.5
+            ],
+            "area": 37269,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 80,
+            "image_id": 78,
+            "category_id": 7,
+            "bbox": [
+                2,
+                51,
+                318,
+                252
+            ],
+            "area": 80136,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 81,
+            "image_id": 79,
+            "category_id": 9,
+            "bbox": [
+                135,
+                47,
+                80,
+                179.5
+            ],
+            "area": 14360,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 82,
+            "image_id": 80,
+            "category_id": 4,
+            "bbox": [
+                46,
+                18,
+                214.5,
+                288.5
+            ],
+            "area": 61883.25,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 83,
+            "image_id": 81,
+            "category_id": 2,
+            "bbox": [
+                15,
+                15,
+                220.5,
+                255.5
+            ],
+            "area": 56337.75,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 84,
+            "image_id": 82,
+            "category_id": 5,
+            "bbox": [
+                1,
+                32,
+                277,
+                236
+            ],
+            "area": 65372,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 85,
+            "image_id": 83,
+            "category_id": 7,
+            "bbox": [
+                48,
+                59,
+                268.5,
+                233
+            ],
+            "area": 62560.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 86,
+            "image_id": 84,
+            "category_id": 5,
+            "bbox": [
+                6,
+                36,
+                313,
+                283
+            ],
+            "area": 88579,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 87,
+            "image_id": 85,
+            "category_id": 5,
+            "bbox": [
+                35,
+                66,
+                284.5,
+                226.5
+            ],
+            "area": 64439.25,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 88,
+            "image_id": 86,
+            "category_id": 4,
+            "bbox": [
+                85,
+                55,
+                209,
+                216
+            ],
+            "area": 45144,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 89,
+            "image_id": 87,
+            "category_id": 5,
+            "bbox": [
+                1,
+                1,
+                310,
+                314.5
+            ],
+            "area": 97495,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 90,
+            "image_id": 88,
+            "category_id": 5,
+            "bbox": [
+                0,
+                0,
+                312.5,
+                317.5
+            ],
+            "area": 99218.75,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ]
+}
